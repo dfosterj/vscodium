@@ -1,0 +1,21 @@
+{
+    "workbench.startupEditor": "none",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": ["Z", "Z"],
+            "commands": [
+                ":wq"
+            ]
+        },
+        {
+            "before": ["Z", "Q"],
+            "commands": [
+                ":q!"
+            ]
+        }
+    ],
+    "workbench.editor.openSideBySideDirection": "down"
+}
