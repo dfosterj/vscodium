@@ -2,7 +2,7 @@
     "workbench.startupEditor": "none",
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
-    "git.autofetch": true
+    "git.autofetch": true,
     "vim.normalModeKeyBindingsNonRecursive": [
         {
             "before": ["Z", "Z"],
