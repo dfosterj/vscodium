@@ -19,5 +19,6 @@
     ],
     "workbench.editor.openSideBySideDirection": "down",
     "workbench.colorTheme": "Gruvbox Dark Hard",
-    "workbench.activityBar.location": "hidden"
+    "workbench.activityBar.location": "hidden",
+    "editor.fontFamily": "Fir"
 }
