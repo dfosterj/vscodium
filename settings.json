@@ -3,7 +3,6 @@
     //Window
     //////////////////////////////////////////////////////////////////////////////// 
     "editor.minimap.enabled": false,
-    "workbench.activityBar.location": "hidden",
     "workbench.editor.enablePreview": false,
     "workbench.startupEditor": "none",
     "workbench.editor.openSideBySideDirection": "down",
@@ -45,5 +44,16 @@
     //"terminal.integrated.fontFamily": "Iosevka Custom"
     "editor.fontFamily": "Fir",
     "editor.fontFamily": "FiraCode Nerd Font, Fira Code, monospace",
-    "explorer.confirmDelete": false
+    "explorer.confirmDelete": false,
+    "workbench.activityBar.location": "hidden",
+    "window.confirmSaveUntitledWorkspace": false,
+    //////////////////////////////////////////////////////////////////////////////// 
+    //Extensions
+    //////////////////////////////////////////////////////////////////////////////// 
+    "extensions": {
+        "recommendations": [
+            "inu1255.easy-snippet"
+        ],
+        "unwantedRecommendations": []
+    }
 }

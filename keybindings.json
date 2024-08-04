@@ -81,5 +81,15 @@
         "key": "alt+shift+p",
         "command": "workbench.action.tasks.runTask",
         "args": "Create PR GH"
+    },
+    {
+        "key": "ctrl+shift+b",
+        "command": "git.checkout"
+    },
+    {
+        "key": ", c c",
+        "command": "editor.action.commentLine",
+        "when": "editorTextFocus && !editorReadonly"
+
     }
 ]
