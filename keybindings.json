@@ -78,6 +78,11 @@
         "key": "ctrl+k",
         "command": "workbench.action.quickOpenSelectPrevious",
         "when": "inQuickOpen"
+    },
+    {
+        "key": "space b d",
+        "command": "workbench.action.closeActiveEditor",
+        "when": "editorTextFocus"
     }
 
 ]
