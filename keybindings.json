@@ -87,7 +87,7 @@
         "command": "git.checkout"
     },
     {
-        "key": ", c c",
+        "key": "alt+c",
         "command": "editor.action.commentLine",
         "when": "editorTextFocus && !editorReadonly"
 
