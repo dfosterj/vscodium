@@ -20,5 +20,7 @@
     "workbench.editor.openSideBySideDirection": "down",
     "workbench.colorTheme": "Gruvbox Dark Hard",
     "workbench.activityBar.location": "hidden",
-    "editor.fontFamily": "Fir"
+    "editor.fontFamily": "Fir",
+    "editor.fontFamily": "FiraCode Nerd Font, Fira Code, monospace",
+    "editor.fontLigatures": true
 }
