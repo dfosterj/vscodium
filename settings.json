@@ -17,5 +17,7 @@
             ]
         }
     ],
-    "workbench.editor.openSideBySideDirection": "down"
+    "workbench.editor.openSideBySideDirection": "down",
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "workbench.activityBar.location": "hidden"
 }
