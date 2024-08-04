@@ -18,7 +18,6 @@
         }
     ],
     "workbench.editor.openSideBySideDirection": "down",
-    "workbench.activityBar.location": "hidden",
     "editor.fontFamily": "Fir",
     "editor.fontFamily": "FiraCode Nerd Font, Fira Code, monospace",
     "editor.fontLigatures": true,
@@ -33,4 +32,5 @@
     "workbench.fontAliasing": "antialiased",
     "editor.fontFamily": "Iosevka Custom",
     "terminal.integrated.fontFamily": "Iosevka Custom",
+    "workbench.activityBar.location": "hidden",
 }

@@ -1,26 +1,6 @@
 // place at ~/.config/Code/User/keybindings.json
  [
       {
-          "key": "ctrl+w",
-          "command": "workbench.files.action.focusFilesExplorer",
-          "when": "!editorIsOpen && !multipleEditorGroups"
-      },
-      {
-          "key": "ctrl+w",
-          "command": "-workbench.action.closeWindow",
-          "when": "!editorIsOpen && !multipleEditorGroups"
-      },
-      {
-        "key": "ctrl+w",
-        "command": "workbench.action.focusActiveEditorGroup",
-        "when": "filesExplorerFocus"
-      },
-      {
-        "key": "ctrl+w",
-        "command": "workbench.action.focusActiveEditorGroup",
-        "when": "terminalFocus"
-      },
-      {
         "key": "ctrl+t",
         "command": "workbench.action.terminal.focus"
       },
@@ -83,6 +63,10 @@
         "key": "space b d",
         "command": "workbench.action.closeActiveEditor",
         "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+a",
+        "command": "workbench.action.toggleActivityBarVisibility"
     }
 
 ]
