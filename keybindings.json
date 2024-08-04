@@ -83,7 +83,7 @@
         "args": "Open GH Dash"
     },
     {
-        "key": "ctrl+r",
+        "key": "ctrl+p",
         "command": "workbench.action.tasks.runTask",
         "args": "Create PR GH"
     }
