@@ -60,11 +60,6 @@
         "when": "inQuickOpen"
     },
     {
-        "key": "space b d",
-        "command": "workbench.action.closeActiveEditor",
-        "when": "editorTextFocus"
-    },
-    {
         "key": "ctrl+shift+a",
         "command": "workbench.action.toggleActivityBarVisibility"
     },
@@ -73,17 +68,17 @@
         "command": "workbench.action.closeFolder"
     },
     {
-        "key": "ctrl+g",
+        "key": "alt+shift+g",
         "command": "workbench.action.tasks.runTask",
         "args": "Open LazyGit"
     },
     {
-        "key": "ctrl+m",
+        "key": "alt+shift+m",
         "command": "workbench.action.tasks.runTask",
         "args": "Open GH Dash"
     },
     {
-        "key": "ctrl+p",
+        "key": "alt+shift+p",
         "command": "workbench.action.tasks.runTask",
         "args": "Create PR GH"
     }

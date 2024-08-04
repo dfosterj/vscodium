@@ -10,6 +10,7 @@
     "editor.referencesCodeLens.enabled": false,
     "editor.lightbulb.enabled": "off",
     "terminal.integrated.showExitAlert": false,
+    "editor.codeLens": false,
     //////////////////////////////////////////////////////////////////////////////// 
     //Git
     //////////////////////////////////////////////////////////////////////////////// 
@@ -44,5 +45,5 @@
     //"terminal.integrated.fontFamily": "Iosevka Custom"
     "editor.fontFamily": "Fir",
     "editor.fontFamily": "FiraCode Nerd Font, Fira Code, monospace",
-    "explorer.confirmDelete": false,
+    "explorer.confirmDelete": false
 }
