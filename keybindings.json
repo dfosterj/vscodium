@@ -67,7 +67,24 @@
     {
         "key": "ctrl+shift+a",
         "command": "workbench.action.toggleActivityBarVisibility"
+    },
+    {
+        "key": "alt+q",
+        "command": "workbench.action.closeFolder"
+    },
+    {
+        "key": "ctrl+g",
+        "command": "workbench.action.tasks.runTask",
+        "args": "Open LazyGit"
+    },
+    {
+        "key": "ctrl+m",
+        "command": "workbench.action.tasks.runTask",
+        "args": "Open GH Dash"
+    },
+    {
+        "key": "ctrl+r",
+        "command": "workbench.action.tasks.runTask",
+        "args": "Create PR GH"
     }
-
 ]
-
