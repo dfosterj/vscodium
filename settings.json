@@ -52,8 +52,9 @@
     //////////////////////////////////////////////////////////////////////////////// 
     "extensions": {
         "recommendations": [
-            "inu1255.easy-snippet"
+            "inu1255.easy-snippet",
+            "be5invis.vscode-custom-css"
         ],
         "unwantedRecommendations": []
-    }
+    },
 }
