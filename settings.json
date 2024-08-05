@@ -10,6 +10,7 @@
     "editor.lightbulb.enabled": "off",
     "terminal.integrated.showExitAlert": false,
     "editor.codeLens": false,
+    "window.restoreWindows": "none",
     //////////////////////////////////////////////////////////////////////////////// 
     //Git
     //////////////////////////////////////////////////////////////////////////////// 
@@ -55,8 +56,8 @@
     //    "unwantedRecommendations": []
     //},
     "godot.csharp.executablePath": "",
-    "workbench.colorTheme": "The unnamed (No Italics)",
     "workbench.activityBar.location": "hidden",
+    "workbench.colorTheme": "Gitpod Dark",
     ////---Override to Flat Black
     //"workbench.colorCustomizations": {
     //"editor.background": "#000000",
