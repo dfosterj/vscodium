@@ -60,5 +60,5 @@ This configuration is open-sourced under the MIT License.
 
 
 
-![alt text](https://github.com/dfosterj/vscodium/blob/main/preview/vscode-preview1.png?raw=true)
-![alt text](https://github.com/dfosterj/vscodium/blob/main/preview/vscode-preview2.png?raw=true)
+![alt text](https://github.com/dfosterj/vscodium/blob/master/preview/vscode-preview1.png)
+![alt text](https://github.com/dfosterj/vscodium/blob/master/preview/vscode-preview2.png)
