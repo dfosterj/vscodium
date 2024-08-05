@@ -45,20 +45,18 @@
     "editor.fontFamily": "Fir",
     "editor.fontFamily": "FiraCode Nerd Font, Fira Code, monospace",
     "explorer.confirmDelete": false,
-    "workbench.activityBar.location": "hidden",
     "window.confirmSaveUntitledWorkspace": false,
     //////////////////////////////////////////////////////////////////////////////// 
     //Extensions
     //////////////////////////////////////////////////////////////////////////////// 
-    "extensions": {
-        "recommendations": [
-            "inu1255.easy-snippet",
-            "be5invis.vscode-custom-css"
-        ],
-        "unwantedRecommendations": []
-    },
+    //"extensions": {
+    //    "recommendations": [
+    //    ],
+    //    "unwantedRecommendations": []
+    //},
     "godot.csharp.executablePath": "",
     "workbench.colorTheme": "The unnamed (No Italics)",
+    "workbench.activityBar.location": "hidden",
     ////Override to Flat Black
     //"workbench.colorCustomizations": {
     //"editor.background": "#000000",

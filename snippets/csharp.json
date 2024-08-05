@@ -4,18 +4,12 @@
 	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the 
 	// same ids are connected.
 	// Example:
-	"Print to console": {
-		"prefix": "ee",
-		"body": [
-			"[Export] ",
-		],
-		"description": "Log output to console"
-	},
-	"Print to console": {
-		"prefix": "gps",
-		"body": [
-			"{ get; private set; }",
-		],
-		"description": "Log output to console"
-	}
+	 "Print to console": {
+	 	"prefix": "log",
+	 	"body": [
+	 		"console.log('$1');",
+	 		"$2"
+	 	],
+	 	"description": "Log output to console"
+	 }
 }
