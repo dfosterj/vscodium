@@ -7,14 +7,16 @@ This repository contains a custom keybindings configuration for Visual Studio Co
 
 ## Installation
 
-To use these keybindings, place the `keybindings.json` file in the following directory:
+To use these keybindings, settings, and tasks place them in your vscode user folder
 
-- **Linux/macOS**: `~/.config/Code/User/keybindings.json`
-- **Windows**: `%APPDATA%\Code\User\keybindings.json`
+- **Linux/macOS**: `~/.config/Code/User/
+- **Windows**: `%APPDATA%\Code\User\
 
 In order to use this full setup you must install Lazygit an Github cli for your workstation.
 [LazyGit](https://github.com/jesseduffield/lazygit)
 [GitHub CLI](https://cli.github.com/)
+
+
 
 
 ## Keybindings
@@ -46,6 +48,7 @@ In order to use this full setup you must install Lazygit an Github cli for your 
 - **Ctrl + Shift + B**: Git checkout.
 - **Alt + C**: Comment or uncomment a line (when editor is focused and not read-only).
 - **Ctrl + Alt + I**: Open snippets (when editor is focused).
+
 
 ## Notes
 
