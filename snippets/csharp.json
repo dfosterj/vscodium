@@ -10,5 +10,12 @@
 			"[Export] ",
 		],
 		"description": "Log output to console"
+	},
+	"Print to console": {
+		"prefix": "gps",
+		"body": [
+			"{ get; private set; }",
+		],
+		"description": "Log output to console"
 	}
 }

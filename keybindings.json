@@ -91,5 +91,5 @@
         "command": "editor.action.commentLine",
         "when": "editorTextFocus && !editorReadonly"
 
-    }
+    },
 ]
