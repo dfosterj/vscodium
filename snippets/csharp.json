@@ -20,5 +20,12 @@
 			"}"
 		],
 		"description": "public override"
+	},
+	"gps": {
+		"prefix": "gps",
+		"body": [
+			"{ get; private set; }",
+		],
+		"description": "public override"
 	}
 }

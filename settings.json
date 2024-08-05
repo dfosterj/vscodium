@@ -57,13 +57,13 @@
     "godot.csharp.executablePath": "",
     "workbench.colorTheme": "The unnamed (No Italics)",
     "workbench.activityBar.location": "hidden",
-    ////Override to Flat Black
+    ////---Override to Flat Black
     //"workbench.colorCustomizations": {
     //"editor.background": "#000000",
     //"sideBar.background": "#000000",
     //"activityBar.background": "#000000",
     //"statusBar.background": "#000000"
-    ////Override to Obsidian Black
+    ////---Override to Obsidian Black
     //"workbench.colorCustomizations": {
     //"editor.background": "#171717",
     //"sideBar.background": "#171717",
