@@ -25,12 +25,12 @@
         "when": "explorerViewletFocus && explorerViewletVisible && !inputFocus"
       },
     {
-        "key": "shift+h",
+        "key": "ctrl+shift+h",
         "command": "workbench.action.previousEditor",
         "when": "editorFocus"
     },
     {
-        "key": "shift+l",
+        "key": "ctrl+shift+l",
         "command": "workbench.action.nextEditor",
         "when": "editorFocus"
     },

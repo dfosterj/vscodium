@@ -16,7 +16,7 @@
 		"body": [
 			"public override void $1()$2",
 			"{",
-			"\	$3",
+			"	$3",
 			"}"
 		],
 		"description": "public override"
