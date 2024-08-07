@@ -7,7 +7,7 @@
 	"ee": {
 		"prefix": "ee",
 		"body": [
-			"[Export] public $1",
+			"[Export]$1",
 		],
 		"description": "godot var export"
 	},
@@ -26,6 +26,14 @@
 		"body": [
 			"{ get; private set; }",
 		],
-		"description": "public override"
+		"description": "get public private set"
+	},
+	"css": {
+		"prefix": "css",
+		"body": [
+			"characterNode.StateMachineNode.SwitchState<$1>();",
+			"$2",
+		],
+		"description": "char switch state"
 	}
 }
