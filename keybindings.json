@@ -35,13 +35,13 @@
         "when": "editorFocus"
     },
     {
-        "key": "ctrl+b",             // when Explorer not open
+        "key": "ctrl+e",             // when Explorer not open
         // "command": "workbench.view.explorer",   // either of these commands works
         "command": "workbench.files.action.focusFilesExplorer",
         "when": "!explorerViewletVisible"
     },
     {
-        "key": "ctrl+b",              // when Explorer open
+        "key": "ctrl+e",              // when Explorer open
         "command": "workbench.action.toggleSidebarVisibility",
         "when": "explorerViewletVisible"
     },
@@ -96,5 +96,9 @@
         "key": "ctrl+alt+i",
         "command": "workbench.action.openSnippets",
         "when": "editorTextFocus"
+    },
+    {
+    "key": "ctrl+k t",
+    "command": "workbench.action.selectTheme"
     }
 ]

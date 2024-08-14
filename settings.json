@@ -11,8 +11,6 @@
     "terminal.integrated.showExitAlert": false,
     "editor.codeLens": false,
     "window.restoreWindows": "none",
-    "workbench.activityBar.location": "hidden",
-    "workbench.colorTheme": "The unnamed (No Italics)",
     //////////////////////////////////////////////////////////////////////////////// 
     //Git
     //////////////////////////////////////////////////////////////////////////////// 
@@ -60,5 +58,7 @@
     "godot.csharp.executablePath": "",
     "[csharp]": {
     "editor.formatOnType": true
-    }
+    },
+    "workbench.activityBar.location": "hidden",
+    "workbench.colorTheme": "The unnamed (No Italics)"
 }
