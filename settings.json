@@ -50,11 +50,12 @@
     //////////////////////////////////////////////////////////////////////////////// 
     //Extensions
     //////////////////////////////////////////////////////////////////////////////// 
-    //"extensions": {
-    //    "recommendations": [
-    //    ],
-    //    "unwantedRecommendations": []
-    //},
+    "extensions": {
+        "recommendations": [
+            "vscodevim.vim"
+        ],
+        "unwantedRecommendations": []
+    },
     "godot.csharp.executablePath": "",
     "[csharp]": {
     "editor.formatOnType": true
