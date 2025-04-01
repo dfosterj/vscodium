@@ -46,17 +46,6 @@
         "when": "explorerViewletVisible"
     },
     {
-        "key": "ctrl+n",             // when Explorer not open
-        // "command": "workbench.view.explorer",   // either of these commands works
-        "command": "workbench.files.action.focusFilesExplorer",
-        "when": "!explorerViewletVisible"
-    },
-    {
-        "key": "ctrl+n",              // when Explorer open
-        "command": "workbench.action.toggleSidebarVisibility",
-        "when": "explorerViewletVisible"
-    },
-    {
         "key": "ctrl+p",
         "command": "workbench.action.quickOpen"
     },
