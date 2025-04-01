@@ -4,5 +4,6 @@
 !settings.json
 !tasks.json
 !snippets/
+!.preview/
 !.gitignore
 
