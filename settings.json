@@ -61,5 +61,5 @@
     "editor.formatOnType": true
     },
     "workbench.activityBar.location": "hidden",
-    "workbench.colorTheme": "The unnamed (No Italics)"
+    "workbench.colorTheme": "Doom Emacs"
 }

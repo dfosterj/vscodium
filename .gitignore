@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+!keybindings.json
+!settings.json
+!tasks.json
+!snippets/
+!.gitignore
+

@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Open LazyGit (Full Screen)",
+      "type": "shell",
+      "command": "lazygit",
+      "presentation": {
+        "panel": "dedicated",  // Uses a new terminal panel
+        "group": "LazyGit",
+        "close": true,         // Closes terminal when LazyGit exits
+        "maximized": true      // Makes terminal full-screen
+      },
+      "problemMatcher": []
+    }
+  ]
+}
